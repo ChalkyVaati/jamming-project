@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./Playlist.module.css";
-import Tracklist from "../Tracklist/Tracklist";
+import Tracklist from "../TrackList/TrackList";
 
 function Playlist(props) {
   function handleNameChange({ target }) {
